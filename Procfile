@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT test_django_app_dev_778.wsgi:application
